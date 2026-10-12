@@ -1,5 +1,11 @@
 # Lexical Analyzer in C
 
+[![Language](https://img.shields.io/badge/Language-C-00599C.svg?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Compiler](https://img.shields.io/badge/Compiler-GCC%20%7C%20Clang-brightgreen.svg?logo=gnu&logoColor=white)](https://gcc.gnu.org/)
+[![Build](https://img.shields.io/badge/Build-GNU%20Make-4EAA25.svg?logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL%20%7C%20Windows-orange.svg)](https://github.com/alfaj07/Lexical-Analyzer-in-C-Programming)
+[![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
+
 A lightweight, hand-crafted Lexical Analyzer (lexer/scanner) implemented in standard C. This tool reads C source files and converts the character stream into categorized tokens such as keywords, identifiers, constants/literals, operators, and special characters. It also performs syntax and lexical validation, reporting errors and warnings with exact line numbers.
 
 ---
